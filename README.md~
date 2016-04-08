@@ -9,9 +9,12 @@ It comunicates with the Brain of the system (an Arduino board) by the means of t
 Bionet stands for Bike Open Network
 
 This simple network as been developted for the Hope & Bike projet
-Base on a producer / consumer model and on master salve topology it manages information dedicated to the bike :
-
-Power in motor; Current in Motor; Battery voltage.....
+Base on a producer / consumer model and on master salve topology it manages information dedicated to the bike
+Power in motor
+Current in Motor
+Battery voltage
+.....
+....
 
 The board is compose of 2 processor from Microship
 
